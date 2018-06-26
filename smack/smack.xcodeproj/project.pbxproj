@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8BDDF75220E2DBC4007D911E /* GradientView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BDDF75120E2DBC4007D911E /* GradientView.swift */; };
 		8BFA9E4D20DED94600DFEC49 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BFA9E4C20DED94600DFEC49 /* AppDelegate.swift */; };
 		8BFA9E5220DED94600DFEC49 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8BFA9E5020DED94600DFEC49 /* Main.storyboard */; };
 		8BFA9E5420DED94800DFEC49 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8BFA9E5320DED94800DFEC49 /* Assets.xcassets */; };
@@ -19,6 +20,7 @@
 
 /* Begin PBXFileReference section */
 		7C41C90C384DEBEDF678D1B7 /* Pods-smack.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-smack.debug.xcconfig"; path = "Pods/Target Support Files/Pods-smack/Pods-smack.debug.xcconfig"; sourceTree = "<group>"; };
+		8BDDF75120E2DBC4007D911E /* GradientView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientView.swift; sourceTree = "<group>"; };
 		8BFA9E4920DED94600DFEC49 /* smack.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = smack.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8BFA9E4C20DED94600DFEC49 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		8BFA9E5120DED94600DFEC49 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -91,6 +93,7 @@
 		8BFA9E5E20DED9B300DFEC49 /* View */ = {
 			isa = PBXGroup;
 			children = (
+				8BDDF75120E2DBC4007D911E /* GradientView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -251,6 +254,7 @@
 			files = (
 				8BFA9E6920DF24DD00DFEC49 /* ChannelVC.swift in Sources */,
 				8BFA9E6720DF24CE00DFEC49 /* ChatVC.swift in Sources */,
+				8BDDF75220E2DBC4007D911E /* GradientView.swift in Sources */,
 				8BFA9E4D20DED94600DFEC49 /* AppDelegate.swift in Sources */,
 				8BFA9E6520DEEC8100DFEC49 /* SWRevealViewController.m in Sources */,
 			);
