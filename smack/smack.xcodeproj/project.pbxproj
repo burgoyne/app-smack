@@ -16,6 +16,7 @@
 		8BDDF75520E42009007D911E /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BDDF75420E42009007D911E /* Constants.swift */; };
 		8BDDF75720E424B7007D911E /* LoginVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BDDF75620E424B7007D911E /* LoginVC.swift */; };
 		8BDDF75920E559E1007D911E /* CreateAccountVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BDDF75820E559E1007D911E /* CreateAccountVC.swift */; };
+		8BE6F57220F3B58100A06989 /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BE6F57120F3B58100A06989 /* CircleImage.swift */; };
 		8BFA9E4D20DED94600DFEC49 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BFA9E4C20DED94600DFEC49 /* AppDelegate.swift */; };
 		8BFA9E5220DED94600DFEC49 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8BFA9E5020DED94600DFEC49 /* Main.storyboard */; };
 		8BFA9E5420DED94800DFEC49 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8BFA9E5320DED94800DFEC49 /* Assets.xcassets */; };
@@ -37,6 +38,7 @@
 		8BDDF75420E42009007D911E /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
 		8BDDF75620E424B7007D911E /* LoginVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginVC.swift; sourceTree = "<group>"; };
 		8BDDF75820E559E1007D911E /* CreateAccountVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreateAccountVC.swift; sourceTree = "<group>"; };
+		8BE6F57120F3B58100A06989 /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
 		8BFA9E4920DED94600DFEC49 /* smack.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = smack.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8BFA9E4C20DED94600DFEC49 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		8BFA9E5120DED94600DFEC49 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -131,6 +133,7 @@
 				8BDDF75120E2DBC4007D911E /* GradientView.swift */,
 				8B49629220ED23D8009BBDD2 /* RoundedButton.swift */,
 				8BA4462520EFDB7B00C0A463 /* AvatarCell.swift */,
+				8BE6F57120F3B58100A06989 /* CircleImage.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -295,6 +298,7 @@
 				8BFA9E6920DF24DD00DFEC49 /* ChannelVC.swift in Sources */,
 				8BA4462420EFCFBF00C0A463 /* AvatarPickerVC.swift in Sources */,
 				8B49629320ED23D8009BBDD2 /* RoundedButton.swift in Sources */,
+				8BE6F57220F3B58100A06989 /* CircleImage.swift in Sources */,
 				8BFA9E6720DF24CE00DFEC49 /* ChatVC.swift in Sources */,
 				8BA4462220EFBCA700C0A463 /* UserDataService.swift in Sources */,
 				8BDDF75920E559E1007D911E /* CreateAccountVC.swift in Sources */,
