@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8B359B2120F7F42D0078CB7E /* KeyboardBoundView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B359B2020F7F42D0078CB7E /* KeyboardBoundView.swift */; };
 		8B49629120EC6886009BBDD2 /* AuthService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B49629020EC6886009BBDD2 /* AuthService.swift */; };
 		8B49629320ED23D8009BBDD2 /* RoundedButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B49629220ED23D8009BBDD2 /* RoundedButton.swift */; };
 		8BA4462220EFBCA700C0A463 /* UserDataService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BA4462120EFBCA700C0A463 /* UserDataService.swift */; };
@@ -38,6 +39,7 @@
 
 /* Begin PBXFileReference section */
 		7C41C90C384DEBEDF678D1B7 /* Pods-smack.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-smack.debug.xcconfig"; path = "Pods/Target Support Files/Pods-smack/Pods-smack.debug.xcconfig"; sourceTree = "<group>"; };
+		8B359B2020F7F42D0078CB7E /* KeyboardBoundView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = KeyboardBoundView.swift; sourceTree = "<group>"; };
 		8B49629020EC6886009BBDD2 /* AuthService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AuthService.swift; sourceTree = "<group>"; };
 		8B49629220ED23D8009BBDD2 /* RoundedButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RoundedButton.swift; sourceTree = "<group>"; };
 		8BA4462120EFBCA700C0A463 /* UserDataService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserDataService.swift; sourceTree = "<group>"; };
@@ -165,6 +167,7 @@
 				8BA4462520EFDB7B00C0A463 /* AvatarCell.swift */,
 				8BE6F57120F3B58100A06989 /* CircleImage.swift */,
 				8BE6F57E20F546B500A06989 /* ChannelCell.swift */,
+				8B359B2020F7F42D0078CB7E /* KeyboardBoundView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -332,6 +335,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8B359B2120F7F42D0078CB7E /* KeyboardBoundView.swift in Sources */,
 				8BA8E1C820F6F6010065AD7A /* SocketService.swift in Sources */,
 				8BE6F57720F3C74600A06989 /* ProfileVC.swift in Sources */,
 				8BE6F57F20F546B500A06989 /* ChannelCell.swift in Sources */,
